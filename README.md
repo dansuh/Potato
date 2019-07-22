@@ -1,9 +1,7 @@
 Potato
 ======
 
-[![Discord](https://i.imgur.com/HLPoNnY.png)](https://discord.gg/5hBDT2P)
-
-If you fork this you can say that you forked a potato.
+[![Discord](https://i.imgur.com/HLPoNnY.png)](https://discord.gg/Hp2dcnM)
 
 ![potato](http://i.imgur.com/dRnvRZZ.jpg)
 
@@ -18,17 +16,3 @@ By the time potatoes were introduced into Europe, the fork was already prevalent
 A lack of equal rights for potatoes led to a disease spreading between them and endangered the tradition of forking the potato in Ireland. Fortunately, other areas of the world maintained their healthy, diverse potatoes, and so the tradition lives on.
 
 You too can continue this tradition of forking potatoes in the modern age by clicking the button above labeled "fork."
-
-Pull Requests
--------------
-
-If you have forked the potato and are looking to submit a pull request, please adhere to the following rules.
-
-- Our potato is lightweight, and it doesn't need non-potato-related items.
-- If you are adding code to the potato, please follow the lightweight mantra (no * imports, etc.).
-- Make sure that your code compiles and runs, if you are changing code.
-- Please format your code.
-- Our potato is a mainstream potato; it doesn't enjoy being full of obscure code/references (not a hipster potato).
-- Please "mash your potatoes" (squash your PRs with interactive rebase).
-- If a comment inquiring for more information is made on your PR, a reply is expected within a week. The request will be closed if not.
-- To stress: **no non-potato-related items**.
